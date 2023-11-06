@@ -1,4 +1,4 @@
-#!/Users/wasik/Codes/Learning-Django/venv/bin/python3
+#!/Users/wasik/GitHub/LearningDjango/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
