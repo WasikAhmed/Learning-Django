@@ -34,7 +34,7 @@ def index(response, id):
     return render(response, "main/list.html", {"ls":ls})
 
 def home(response):
-    return render(response, "main/home.html", {"na me":"test"})
+    return render(response, "main/home.html", {"name":"home"})
 
 def create(response):
     if response.method == "POST":
